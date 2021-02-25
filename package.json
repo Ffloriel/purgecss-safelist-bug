@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "purgecss -c purgecss.config.js"
+  },
+  "devDependencies": {
+    "purgecss": "^4.0.2"
+  }
+}
